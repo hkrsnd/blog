@@ -3,7 +3,7 @@
 ## Hikaru Shindo
 April, 2018 - Now:
 
- Graduate student in Computer Science at Graduate school of informatics, Kyoto University
+ Graduate student in Computer Science at Graduate school of informatics, Kyoto University, Japan
 
 
 2014-2018:
@@ -12,7 +12,7 @@ B.Sc. student of computer science at Kyoto University, Japan
 
 
 ## Research Interest
- My research intrest is around machine learning with descrete representations such as first order logic, desicion diagrams, etc.
+ My research intrest is around machine learning with descrete representations such as first order logic, decision diagrams, etc.
 
 ### key words
 machine learning, first order logic, inductive logic programming,
